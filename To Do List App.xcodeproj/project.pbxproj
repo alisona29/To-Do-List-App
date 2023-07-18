@@ -16,6 +16,7 @@
 		1B09CC722A66DE25009F696A /* To_Do_List_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B09CC712A66DE25009F696A /* To_Do_List_AppTests.swift */; };
 		1B09CC7C2A66DE25009F696A /* To_Do_List_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B09CC7B2A66DE25009F696A /* To_Do_List_AppUITests.swift */; };
 		1B09CC7E2A66DE25009F696A /* To_Do_List_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B09CC7D2A66DE25009F696A /* To_Do_List_AppUITestsLaunchTests.swift */; };
+		1B09CC8B2A66E7EB009F696A /* ToDoLIst Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B09CC8A2A66E7EB009F696A /* ToDoLIst Item.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		1B09CC772A66DE25009F696A /* To Do List AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "To Do List AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B09CC7B2A66DE25009F696A /* To_Do_List_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = To_Do_List_AppUITests.swift; sourceTree = "<group>"; };
 		1B09CC7D2A66DE25009F696A /* To_Do_List_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = To_Do_List_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1B09CC8A2A66E7EB009F696A /* ToDoLIst Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToDoLIst Item.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 		1B09CC4F2A66DE22009F696A = {
 			isa = PBXGroup;
 			children = (
+				1B09CC8A2A66E7EB009F696A /* ToDoLIst Item.swift */,
 				1B09CC5A2A66DE22009F696A /* To Do List App */,
 				1B09CC702A66DE25009F696A /* To Do List AppTests */,
 				1B09CC7A2A66DE25009F696A /* To Do List AppUITests */,
@@ -267,6 +270,7 @@
 				1B09CC5E2A66DE22009F696A /* ContentView.swift in Sources */,
 				1B09CC5C2A66DE22009F696A /* To_Do_List_AppApp.swift in Sources */,
 				1B09CC682A66DE25009F696A /* To_Do_List_App.xcdatamodeld in Sources */,
+				1B09CC8B2A66E7EB009F696A /* ToDoLIst Item.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
